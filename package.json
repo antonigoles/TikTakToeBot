@@ -1,0 +1,12 @@
+{
+  "name": "messsagecomponentstest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "foealke",
+  "license": "ISC"
+}
