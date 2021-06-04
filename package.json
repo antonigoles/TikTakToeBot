@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "foealke",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "js-cord": "git+https://github.com/jay3332/js-cord.git"
+  }
 }
